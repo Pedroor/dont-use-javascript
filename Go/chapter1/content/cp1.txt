@@ -1,0 +1,4 @@
+1 - Conhecendo o Go Playground
+2 - Variáveis,valores e tipos - Operador curto de declaração
+3 - Variáveis,valores e tipos p2 - A palavra chave var
+4 - Variáveis,valores e tipos p3 - Explorando tipos
